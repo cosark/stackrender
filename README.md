@@ -78,6 +78,12 @@ npm install
 npm run build
 ```
 
+## One-Click Deploy
+
+<a href="https://repocloud.io/details/StackRender/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/stackrender"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+<a href="https://zeabur.com/templates/CHMYNO"><img src="https://zeabur.com/button.svg" alt="Deploy on Zeabur" height="42"></a>
+
 ## Try Using It in the Cloud
 
 1. Visit [StackRender.io](https://www.stackrender.io)  
